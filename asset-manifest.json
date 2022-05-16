@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DashBoard_React/static/css/main.94bed52d.css",
+    "main.js": "/DashBoard_React/static/js/main.ef7a33ec.js",
+    "index.html": "/DashBoard_React/index.html",
+    "main.94bed52d.css.map": "/DashBoard_React/static/css/main.94bed52d.css.map",
+    "main.ef7a33ec.js.map": "/DashBoard_React/static/js/main.ef7a33ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94bed52d.css",
+    "static/js/main.ef7a33ec.js"
+  ]
+}
