@@ -33,9 +33,9 @@ const Datatable = () => {
   return (
     <div className="datatable">
       <div className="datatableTitle">
-        Add New User
+        새 사용자 추가
         <Link to="/users/new" className="link">
-          Add New
+          추가
         </Link>
       </div>
       <DataGrid className="datagrid" rows={data} columns={userColumns.concat(actionColumn)} pageSize={9} rowsPerPageOptions={[9]} checkboxSelection />
